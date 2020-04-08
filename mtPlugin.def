@@ -1,0 +1,8 @@
+LIBRARY mtPlugin
+
+EXPORTS
+    MtSrvAbout
+    MtSrvStartup
+    MtSrvTelnet
+    MtSrvTradeRequestApply
+
